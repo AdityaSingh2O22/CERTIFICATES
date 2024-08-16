@@ -1,5 +1,5 @@
 # Internship Documents 
 
-Internship Certificate
-Offer Letter
-Completion Certificate
+1. Internship Certificate
+2. Offer Letter
+3. Completion Certificate
