@@ -1,3 +1,3 @@
 # CERTIFICATES
-Hello I'm **Aditya Singh**, 
-^These are my some Certificates.
+Hello I'm **Aditya Singh**. </br> 
+These are my some Certificates.
